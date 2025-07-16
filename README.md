@@ -100,7 +100,13 @@ Why: Prevent spam and track users.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h2>Add Agents (Workers)</h2>
+
+Path: Admin Panel -> Agents -> Add New
+
+Examples:
+Lerone (Department: SysAdmins)
+Leona (Department: Support)
 </p>
 <br />
 
@@ -108,6 +114,44 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h2>Add Users (Customers)</h2>
+
+Path: Agent Panel -> Users -> Add New
+
+Examples:
+Lerone (Email: Leona@example.com)
+Leona (Email: Leona@example.com)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<h2>Configure SLAs</h2>
+
+Path: Admin Panel -> Manage -> SLA
+
+Examples:
+SLA Plan	Grace Period	Schedule
+Sev-A	1 hour	24/7
+Sev-B	4 hours	24/7
+Sev-C	8 hours	Business Hours (9AM-5PM)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<h2>Create Help Topics</h2>
+
+Path: Admin Panel -> Manage -> Help Topics
+
+Examples:
+Business Critical Outage
+Personal Computer Issues
+Password Reset
+Equipment Request
 </p>
 <br />
