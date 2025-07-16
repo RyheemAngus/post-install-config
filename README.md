@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Define SLAs
 - Create Help Topics
 
-<h2>Configuration Steps</h2>
+<h1>Configuration Steps</h1>
 
 <p>
 <h2>Access osTicket Admin Panel</h2>
