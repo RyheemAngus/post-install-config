@@ -41,7 +41,7 @@ End User URL: http://localhost/osTicket
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2240" height="1260" alt="Image" src="https://github.com/user-attachments/assets/4d4ab7a8-4c91-490d-94b3-6b80d12233e1" />
 </p>
 <p>
 <h2>Configure Roles</h2>
@@ -54,7 +54,7 @@ Why: Restrict/modify access for other roles.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2240" height="1260" alt="Image" src="https://github.com/user-attachments/assets/46ec3d10-fe4d-47d9-956d-3069f2c2352b" />
 </p>
 <p>
 <h2>Set Up Departments</h2>
@@ -68,7 +68,7 @@ Support (Basic ticket visibility)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="942" height="489" alt="Image" src="https://github.com/user-attachments/assets/380e614f-9787-4f30-9ca8-8486a15b8036" />
 </p>
 <p>
 <h2>Create Teams</h2>
@@ -82,9 +82,6 @@ Why: Collaborate across departments for specific issues.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 <h2>Ticket Creation Settings</h2>
 
 Path: Admin Panel -> Settings -> User Settings
@@ -97,9 +94,6 @@ Why: Prevent spam and track users.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 <h2>Add Agents (Workers)</h2>
 
 Path: Admin Panel -> Agents -> Add New
@@ -111,7 +105,7 @@ Leona (Department: Support)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="941" height="943" alt="Image" src="https://github.com/user-attachments/assets/152c907e-6f12-4fb9-82e4-cd62715ec164" />
 </p>
 <p>
 <h2>Add Users (Customers)</h2>
@@ -119,14 +113,11 @@ Leona (Department: Support)
 Path: Agent Panel -> Users -> Add New
 
 Examples:
-Lerone (Email: Leona@example.com)
-Leona (Email: Leona@example.com)
+Ronaldo (Email: Ronaldo@example.com)
+Messi (Email: Messi@example.com)
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 <h2>Configure SLAs</h2>
 
@@ -141,7 +132,7 @@ Sev-C	8 hours	Business Hours (9AM-5PM)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="947" height="500" alt="Image" src="https://github.com/user-attachments/assets/8a8fca6c-b658-4514-a4ab-6c1200e1a235" />
 </p>
 <p>
 <h2>Create Help Topics</h2>
@@ -153,5 +144,8 @@ Business Critical Outage
 Personal Computer Issues
 Password Reset
 Equipment Request
+</p>
+<p>
+<img width="946" height="678" alt="Image" src="https://github.com/user-attachments/assets/7fe11858-ee6a-4bce-9a61-cf4255a31f29" />
 </p>
 <br />
