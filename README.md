@@ -31,6 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Access osTicket Admin Panel</h2>
 
 Admin Login URL: http://localhost/osTicket/scp/login.php
+
 End User URL: http://localhost/osTicket
 </p>
 <br />
@@ -44,6 +45,7 @@ End User URL: http://localhost/osTicket
 Path: Admin Panel -> Agents -> Roles
 
 Example: Create a Supreme Admin role with full permissions.
+
 Why: Restrict/modify access for other roles.
 </p>
 <br />
@@ -57,7 +59,9 @@ Why: Restrict/modify access for other roles.
 Path: Admin Panel -> Agents -> Departments
 
 Example:
+
 SysAdmins (Full access to technical tickets)
+
 Support (Basic ticket visibility)
 </p>
 <br />
@@ -71,7 +75,9 @@ Support (Basic ticket visibility)
 Path: Admin Panel -> Agents -> Teams
 
 Example:
+
 Online Banking (Agents from SysAdmins + Support)
+
 Why: Collaborate across departments for specific issues.
 </p>
 <br />
@@ -82,8 +88,11 @@ Why: Collaborate across departments for specific issues.
 Path: Admin Panel -> Settings -> User Settings
 
 Action:
+
 UNCHECK: "Allow unregistered users to create tickets"
+
 ENABLE: "Require registration/login to create tickets"
+
 Why: Prevent spam and track users.
 </p>
 <br />
@@ -94,7 +103,9 @@ Why: Prevent spam and track users.
 Path: Admin Panel -> Agents -> Add New
 
 Examples:
+
 Lerone (Department: SysAdmins)
+
 Leona (Department: Support)
 </p>
 <br />
@@ -108,7 +119,9 @@ Leona (Department: Support)
 Path: Agent Panel -> Users -> Add New
 
 Examples:
+
 Ronaldo (Email: Ronaldo@example.com)
+
 Messi (Email: Messi@example.com)
 </p>
 <br />
@@ -119,9 +132,13 @@ Messi (Email: Messi@example.com)
 Path: Admin Panel -> Manage -> SLA
 
 Examples:
+
 SLA Plan	Grace Period	Schedule
+
 Sev-A	1 hour	24/7
+
 Sev-B	4 hours	24/7
+
 Sev-C	8 hours	Business Hours (9AM-5PM)
 </p>
 <br />
@@ -135,9 +152,13 @@ Sev-C	8 hours	Business Hours (9AM-5PM)
 Path: Admin Panel -> Manage -> Help Topics
 
 Examples:
+
 Business Critical Outage
+
 Personal Computer Issues
+
 Password Reset
+
 Equipment Request
 </p>
 <p>
